@@ -1,4 +1,4 @@
-# Purpose: This script is used to run tests on a Python file and generate a results file with the test results and the contents of the Python file and the test file.
+# Purpose: This code will create a text file to share with LLMs, made up of the project description, the Python model, and its test file, then runs pytest to obtain the results.
 # Author: Faisal Alsrheed
 # v2
 
